@@ -51,3 +51,22 @@ span {
     color: brown;
     font-weight: 700;
 }
+
+header {
+    display: flex;
+    flex-direction: column;
+}
+
+.top {
+    display: flex;
+}
+
+nav {
+    font-size: 25px;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    margin-right: 10px;
+}
