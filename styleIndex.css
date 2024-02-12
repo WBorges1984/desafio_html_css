@@ -1,0 +1,45 @@
+nav {
+    background-color: #444;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(13, 70, 37);
+    color: aliceblue;
+    width: 100%;
+}
+
+footer ul {
+    display: flex;
+    flex-direction: column;
+}
+
+.redes {
+    padding: 10px;
+}
+.creditos {
+    margin-right: 550px;
+}
