@@ -60,6 +60,6 @@ h1 > span {
     margin: 15px;
 }
 
-img {
+.card > img {
     width: 250px;
 }
